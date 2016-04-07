@@ -33,6 +33,12 @@ h1 {
   margin-bottom: 3%;
 }
 
+input::-webkit-input-placeholder {
+  color: #000000;
+  font-weight: 300;
+  font-size: 12px;
+}
+
 .Submit_Item {
-  
+
 }
