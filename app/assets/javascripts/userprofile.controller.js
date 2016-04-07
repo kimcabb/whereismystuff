@@ -4,6 +4,8 @@
   angular
   .module("userProfile",[])
   .controller("userProfileController",[
+    // "ItemFactory",
+    // "$state",
     userProfileControllerFunction
   ]);
 
